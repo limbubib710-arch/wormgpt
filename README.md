@@ -1,14 +1,10 @@
 # wormgpt termux command
 
-
 $ git clone https://github.com/limbubib710-arch/wormgpt.git
-
 
 $ cd wormgpt
 
-
 $ ls
-
 
 $ python wormgpt.py
 
