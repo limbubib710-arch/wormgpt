@@ -1,15 +1,26 @@
 # wormgpt
-pkg update && pkg install git python -y
+🚀 WORMGPT AI v2.0.0
 
-pip install requests
+An open-source Python terminal AI assistant for Termux and Pydroid 3.
 
-git clone https://github.com/limbubib710-arch/wormgpt.git
+🔥 Features:
 
-cd wormgpt
+- AI Chat
+- AI Coding
+- Debugging Assistant
+- Cybersecurity Education
+- OSINT Tools
+- DNS Lookup
+- CVE Lookup
+- Network Diagnostics
+
+⚡ No personal API key required. Online AI features depend on public provider availability.
 
 
-chmod +x wormgpt.py
+TikTok: @hackr800
 
+WhatsApp: +9779828278584
 
-python wormgpt.py
+Open Source | Python | Termux | AI
 
+Use security tools only on authorized systems.
