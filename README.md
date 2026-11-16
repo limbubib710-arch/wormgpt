@@ -1,4 +1,18 @@
-# wormgpt
+# wormgpt termux command
+
+
+$ git clone https://github.com/limbubib710-arch/wormgpt.git
+
+
+$ cd wormgpt
+
+
+$ ls
+
+
+$ python wormgpt.py
+
+
 🚀 WORMGPT AI v2.0.0
 
 An open-source Python terminal AI assistant for Termux and Pydroid 3.
